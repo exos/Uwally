@@ -35,4 +35,16 @@ cfx xpi
 
 Anda install on Firefox the uwally.xpi file.
 
+How can I help?
+---------------
 
+You can report ideas or bugs here: https://github.com/exos/Uwally/issues
+
+If you want contribute with the project, i need:
+
+- Developers
+- Traslators (Any language)
+- Graphic designers
+- Betatesters (No knowledges required)
+
+You can subscribe to the develop group (on Google groups): https://groups.google.com/group/uwally-dev
