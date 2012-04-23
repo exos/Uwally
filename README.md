@@ -5,8 +5,8 @@ Uwally is a Firefox extension make with Jetpack ADD-ON SDK[1] to manage the uwal
 
 Too implement the notification option for a song play, this notify on your desktop.
 
- 1- https://addons.mozilla.org/en-US/developers/docs/sdk/latest/dev-guide/index.html
- 2- htt://uwall.tv
+- 1- https://addons.mozilla.org/en-US/developers/docs/sdk/latest/dev-guide/index.html
+- 2- http://uwall.tv
 
 Status
 ------
